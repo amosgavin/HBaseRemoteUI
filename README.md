@@ -1,2 +1,2 @@
 # HBaseRemoteUI
-Hbase Remote Client , CRUD.
+Hbase Remote Client with UI.
